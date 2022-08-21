@@ -1,4 +1,4 @@
-This is my first competition to predict model made using python on jupyter notebooks in kaggle with Shai and I came in the first.💪🏻💪🏻
+This is my first competition to predict model made using python on jupyter notebooks in kaggle with Shai
 
 https://www.kaggle.com/competitions/shai-club
 
@@ -8,7 +8,8 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
 Files:
 train.csv - the training set
 test.csv - the test set
-Features
+
+Features:
 price price in US dollars ($326--$18,823)
 carat weight of the diamond (0.2--5.01)
 cut quality of the cut (Fair, Good, Very Good, Premium, Ideal)
@@ -19,5 +20,7 @@ y width in mm (0--58.9)
 z depth in mm (0--31.8)
 depth total depth percentage = z / mean (x, y) = 2 * z / (x + y) (43--79)
 table width of top of diamond relative to widest point (43--95)
+
 Evaluation Metric
-The evaluation metric for this competition is Root Mean Squared Error (RMSE). The RMSE is a commonly used measure of the differences between predicted values provided by a model and the actual observed values.
+The evaluation metric for this competition is Root Mean Squared Error (RMSE). The RMSE is a commonly used measure of the differences between predicted values
+provided by a model and the actual observed values.
